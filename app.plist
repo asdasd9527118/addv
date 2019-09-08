@@ -13,11 +13,23 @@
                     <key>url</key>
                     <string>http://www.xiaomishan.com:9999/test.ipa</string>
                 </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>url</key>
+                    <string>http://www.xiaomishan.com:9999/144.png</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>url</key>
+                    <string>http://www.xiaomishan.com:9999/144.png</string>
+                </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.xiaoquexin.facai</string>
+                <string>com.jinpinyule.app</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
