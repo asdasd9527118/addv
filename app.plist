@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://www.xiaomishan.com:9999/test.ipa</string>
+                    <string>http%3a%2f%2fwww.xiaomishan.com%3a9999%2ftest.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
